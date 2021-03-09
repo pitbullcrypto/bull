@@ -1139,7 +1139,7 @@ void MapPort()
 // The second name should resolve to a list of seed addresses.
 static const char *strDNSSeed[][2] = {
   {"100.21.176.151", "100.21.176.151"},
-    {"", ""},
+    {"152.228.133.241", "152.228.133.241"},
     {"", ""},
 	
 };
@@ -1219,7 +1219,7 @@ unsigned int pnSeed[] =
     0xde48b641, 0xad3e4e41, 0xd0f32b44, 0x09733b44, 0x6a51f545,
     0xe593ef48, 0xc5f5ef48, 0x96f4f148, 0xd354d34a, 0x36206f4c,
     0xceefe953, 0x50468c55, 0x89d38d55, 0x65e61a5a, 0x16b1b95d,
-    0x702b135e, 0x0f57245e, 0xdaab5f5f, 0xba15ef63,
+    0x702b135e, 0x0f57245e, 0xdaab5f5f, 0xba15ef63, 0x98e485f1
 };
 
 void DumpAddresses()
